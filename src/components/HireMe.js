@@ -4,7 +4,7 @@ class HireMe extends Component {
     render() {
         return (
             <div>
-                <div className="page hire-me-page" style={{paddingTop: '4vw'}}>
+                <div className="page hire-me-page" style={{paddingTop: '5rem'}}>
                     <section className="portfolio-block hire-me">
                         <div className="container">
                             <div className="heading">

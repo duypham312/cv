@@ -7,7 +7,7 @@ class CV extends Component {
         return (
             <div>
                 <div className="page cv-page">
-                    <section className="portfolio-block block-intro border-bottom" style={{paddingTop: '10vw'}}>
+                    <section className="portfolio-block block-intro border-bottom" style={{paddingTop: '10rem'}}>
                         <div className="container">
                             <div className="avatar" style={{backgroundImage: `url(${Avatar})`}} />
                             <div className="about-me">
