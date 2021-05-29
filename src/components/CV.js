@@ -1,5 +1,6 @@
 import React, {Component} from 'react';
 import Avatar from '../assets/img/avatar/avatar.png'
+import {Link} from "react-router-dom";
 
 class CV extends Component {
     render() {
@@ -10,7 +11,7 @@ class CV extends Component {
                         <div className="container">
                             <div className="avatar" style={{backgroundImage: `url(${Avatar})`}} />
                             <div className="about-me">
-                                <p>Hello! I am Pham Minh Duy.&nbsp;I am studying Computer Science at Vietnam National University</p><a className="btn btn-outline-primary" role="button" href="#">Hire me</a>
+                                <p>Hello! I am Pham Minh Duy.&nbsp;I am studying Computer Science at Vietnam National University</p><Link className="btn btn-outline-primary" role="button" to="/hire">Hire me</Link>
                             </div>
                         </div>
                     </section>
