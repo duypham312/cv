@@ -48,11 +48,11 @@ class CV extends Component {
                                         <div className="skills portfolio-info-card">
                                             <h2>Skills</h2>
                                             <h3>Coding skills in C++, Java, JavaScript</h3>
-                                            <h3><strong>Basic software development skills based on Java</strong>&nbsp;(Java Swing, JavaFX)<strong>&nbsp;and C++ (SDL)</strong></h3>
-                                            <h3><strong>Basic web development skills using ReactJS, ExpressJS</strong></h3>
+                                            <h3><strong>Software development skills based on Java</strong>&nbsp;(Java Swing, JavaFX)<strong>&nbsp;and C++ (SDL)</strong></h3>
+                                            <h3><strong>Web development skills using ReactJS and ExpressJS</strong></h3>
+                                            <h3><strong>Intermediate MySQL skills</strong></h3>
                                             <h3><strong>Basic photo and video editing skills</strong></h3>
                                             <h3>Basic Microsoft Office skills</h3>
-                                            <h3>Basic Github skills</h3>
                                             <h3><strong>Intermediate English level</strong></h3>
                                         </div>
                                     </div>
