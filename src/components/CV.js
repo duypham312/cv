@@ -25,7 +25,7 @@ class CV extends Component {
                                     <div className="row">
                                         <div className="col-md-6">
                                             <h3>High School</h3>
-                                            <h4 className="organization">Lien Ha High School</h4>
+                                            <h4 className="organization bg-primary">Lien Ha High School</h4>
                                         </div>
                                         <div className="col-6"><span className="period">9/2016 - 05/2019</span></div>
                                     </div>
@@ -35,7 +35,7 @@ class CV extends Component {
                                     <div className="row">
                                         <div className="col-md-6">
                                             <h3>Studying Computer Science</h3>
-                                            <h4 className="organization">Vietnam National University</h4>
+                                            <h4 className="organization bg-primary">Vietnam National University</h4>
                                         </div>
                                         <div className="col-md-6"><span className="period">09/2019- now</span></div>
                                     </div>
