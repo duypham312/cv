@@ -47,9 +47,10 @@ class CV extends Component {
                                     <div className="col-md-6">
                                         <div className="skills portfolio-info-card">
                                             <h2>Skills</h2>
-                                            <h3>Coding skills in C++, Java, JavaScript</h3>
-                                            <h3><strong>Software development skills based on Java</strong>&nbsp;(Java Swing, JavaFX)<strong>&nbsp;and C++ (SDL)</strong></h3>
-                                            <h3><strong>Web development skills using ReactJS and ExpressJS</strong></h3>
+                                            <h3>Coding skills in C++, Java, JavaScript, Dart</h3>
+                                            <h3><strong>Software development skills in Java</strong>&nbsp;(Java Swing, JavaFX)<strong>&nbsp;and C++ (SDL)</strong></h3>
+                                            <h3><strong>Multi-platform (iOS and Android) mobile application development skills in Dart (Flutter)</strong></h3>
+                                            <h3><strong>Web development skills with ReactJS and ExpressJS</strong></h3>
                                             <h3><strong>Intermediate MySQL skills</strong></h3>
                                             <h3><strong>Basic photo and video editing skills</strong></h3>
                                             <h3>Basic Microsoft Office skills</h3>
@@ -58,25 +59,25 @@ class CV extends Component {
                                     </div>
                                     <div className="col-md-6">
                                         <div className="contact-info portfolio-info-card">
-                                            <h2>Contact Info</h2>
+                                            <h2>Info</h2>
                                             <div className="row">
-                                                <div className="col-1"><i className="icon ion-android-calendar icon" /></div>
-                                                <div className="col-9"><span>03/12/2001</span></div>
-                                            </div>
-                                            <div className="row">
-                                                <div className="col-1"><i className="icon ion-person icon" /></div>
+                                                <div className="col-1"><i className="icon ion-person" /></div>
                                                 <div className="col-9"><span>Pham Minh Duy</span></div>
                                             </div>
                                             <div className="row">
-                                                <div className="col-1"><i className="icon ion-ios-telephone icon" /></div>
-                                                <div className="col-9"><span>+84 981 502 088&nbsp;</span></div>
+                                                <div className="col-1"><i className="icon ion-android-calendar" /></div>
+                                                <div className="col-9"><span>03/12/2001</span></div>
                                             </div>
                                             <div className="row">
-                                                <div className="col-1"><i className="icon ion-at icon" /></div>
+                                                <div className="col-1"><i className="icon ion-social-github" /></div>
+                                                <div className="col-9"><span>github.com/duypham312</span></div>
+                                            </div>
+                                            <div className="row">
+                                                <div className="col-1"><i className="icon ion-at" /></div>
                                                 <div className="col-9"><span>M.Duy2001@gmail.com</span></div>
                                             </div>
                                             <div className="row">
-                                                <div className="col-1"><i className="icon ion-at icon" /></div>
+                                                <div className="col-1"><i className="icon ion-at" /></div>
                                                 <div className="col-9"><span>19021252@vnu.edu.vn</span></div>
                                             </div>
                                         </div>
